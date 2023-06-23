@@ -8,6 +8,7 @@ Repo for GUI created published by me
 <li>path in repo : GUIs/Mac Supported GUIs/PasswordManager/PassManager.dmg</li>
 <li>description : 128 bit encrypted password manager</li>
 <li>security : it save data in your system & not connected to network in any aspect</li>
+<li>updates : soon will be releasing for Linux & Windows</li>
 </ul>
 
 <h3 style="color:#66FCF1;"> How to download it </h3>
