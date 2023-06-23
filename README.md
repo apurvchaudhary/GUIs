@@ -3,42 +3,42 @@ Repo for GUI created published by me
 
 
 ## Mac Supported GUIs
-### 1. PassManager.dmg
+<h2 style="color:grey;"> 1. PassManager.dmg </h2>
 <ul>
 <li>path in repo : GUIs/Mac Supported GUIs/PasswordManager/PassManager.dmg</li>
 <li>description : 128 bit encrypted password manager</li>
 <li>security : it save data in your system & not connected to network in any aspect</li>
 </ul>
 
-#### How to download it
+<h3 style="color:#66FCF1;"> How to download it </h3>
 <p>
 You can download it from mentioned path in repo. Mac will show warning as I am not registered developer, but you can select download anyway.
 </p>
 
-#### How to install it
+<h3 style="color:#66FCF1;"> How to install it </h3>
 <p>
 double click on PassManager.dmg and move icon to Applications & boom it's available to use
 </p>
 
-#### How to run it
+<h3 style="color:#66FCF1;"> How to run it </h3>
 <p>
 double click on PassManager icon from applications shown in image below, or you can add it in your dock
 </p>
 <img src="Mac Supported GUIs/PasswordManager/images/applications.png">
 
-### Here is the Screen View of Password Manager
+<h3 style="color:#66FCF1;"> Here is the Screen View of Password Manager </h3>
 <img src="Mac Supported GUIs/PasswordManager/images/window.png">
 
-#### DISCLAIMER
+<h3 style="color:#66FCF1;"> DISCLAIMER </h3>
 For disclaimer click below right corner disclaimer button
 
-#### What is default passcode & how to change
+<h3 style="color:#66FCF1;"> What is default passcode & how to change </h3>
 <p>
 Default passcode is 1234 you can change it from change passcode option as shown below, first it will ask current passcode then will ask twice new one.
 </p>
 <img src="Mac Supported GUIs/PasswordManager/images/change_passcode.png">
 
-#### How to save password to it
+<h3 style="color:#66FCF1;"> How to save password to it </h3>
 <p>
 Fill details such as 
 <li>app name</li>
@@ -58,7 +58,7 @@ Answer yes or no as per your preference for providing url.</li>
 <img src="Mac Supported GUIs/PasswordManager/images/url_ask.png">
 </p>
 
-#### How to see password
+<h3 style="color:#66FCF1;"> How to see password </h3>
 <ul>
 <li>
 click on saved list and select for which app you want to see password & click on show password.
@@ -74,7 +74,7 @@ If correct passcode provided, it will show your password.
 <img src="Mac Supported GUIs/PasswordManager/images/show_password.png">
 </ul>
 
-#### How to change password for saved app
+<h3 style="color:#66FCF1;"> How to change password for saved app </h3>
 <ul>
 <li>select app from saved list & click on Change Password</li>
 <img src="Mac Supported GUIs/PasswordManager/images/change_password.png">
@@ -82,11 +82,11 @@ If correct passcode provided, it will show your password.
 <img src="Mac Supported GUIs/PasswordManager/images/new_password.png">
 </ul>
 
-### What is Browser Sync feature
+<h3 style="color:#66FCF1;"> What is Browser Sync feature </h3>
 <p>
 You can download passwords csv from Chrome browser & click on browse in Sync Browser password section. It will save password one by one asking you about mode(Plain or Encrypify) once & url each time.
 </p>
 <img src="Mac Supported GUIs/PasswordManager/images/browser_sync.png">
 
-## Like & Share
+<h3 style="color:#66FCF1;"> Like & Share </h3>
 Kindly give a like to repo, if you really find it useful.
