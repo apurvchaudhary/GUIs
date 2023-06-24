@@ -5,10 +5,11 @@ Repo for GUI created published by me
 ## Mac Supported GUIs
 <h2 style="color:grey;"> 1. PassManager.dmg </h2>
 <ul>
-<li>path in repo : PasswordManager/Mac OS supported/PassManager.dmg</li>
+<li>Mac app path in repo : PasswordManager/Mac OS supported/PassManager.dmg</li>
+<li>Window app path in repo : PasswordManager/Window OS supported/PassManager.dmg</li>
 <li>description : 128 bit encrypted password manager</li>
 <li>security : it save data in your system & not connected to network in any aspect</li>
-<li>updates : soon will be releasing for Linux & Windows</li>
+<li>updates : soon will be releasing for Linux</li>
 </ul>
 
 <h3 style="color:#66FCF1;"> How to download it </h3>
