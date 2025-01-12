@@ -10,6 +10,8 @@
 <li>Note: It resolves your custom domain to IP</li>
 </ul>
 
+#### Add '127.0.0.1' inside DNS settings of your network before using DomainFlux.
+
 ### GUI main window
 
 <p>This is the main screen.</p>
