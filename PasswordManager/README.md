@@ -14,8 +14,8 @@
 <p>
 You can download it from a mentioned path in repo. MAC-OS will show warning as I am not a registered developer, but you 
 can select download anyway.
-<a href="https://support.apple.com/en-in/102445">How to run it anyway in MAC-OS</a>
 </p>
+<a href="https://support.apple.com/en-in/102445" target="_blank">How to run it anyway in MAC-OS</a>
 
 <h3 style="color:#66FCF1;"> How to install it? </h3>
 <p>
