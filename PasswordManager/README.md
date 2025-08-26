@@ -43,7 +43,7 @@ below, first it will ask current passcode then will ask twice new one.
 <ul>
 <li>'Forgot Passcode' option can handle that scenario.</li>
 <li>But this button is for admin purpose.</li>
-<li>In that case, <a href="https://www.apurvchaudhary.com/contact/">Contact Admin</a></li>
+<li>In that case, <a href="https://apurvchaudhary.com/#contact">Contact Admin</a></li>
 </ul>
 
 <h3 style="color:#66FCF1;"> How to save password in it? </h3>
@@ -113,6 +113,6 @@ For disclaimer click below right corner disclaimer button
 <h3 style="color:#66FCF1;"> Like & Share </h3>
 Kindly give a like to repo or send me a thankyou note on my official website, if you really find this open source 
 utility useful and safe. Do share it with your friends.
-<a href="https://www.apurvchaudhary.com/contact/">Send me a thankyou note.</a>
+<a href="https://apurvchaudhary.com/#contact">Send me a thankyou note.</a>
 
 <p>Here in readme I have attached SS of macOS, but it will be somewhat similar in all OS.</p>
